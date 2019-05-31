@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 from calcs import max_depth, z, qc, fs, u2, u0, Rf, Bq
+
 ##########################################################################################################################################################################
 #Initialise Figures
 fig = plt.figure(1,figsize=(20,20),dpi=300)

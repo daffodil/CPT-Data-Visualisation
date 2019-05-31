@@ -1,7 +1,12 @@
+# -*- coding: utf-8 -*-
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
+
 from calcs import ic, max_depth, z
+
+
 ##########################################################################################################################################################################
 #Check Soil Behaviour Type    
 sbt = []
